@@ -1,0 +1,8 @@
+{
+    "/get-all": {
+      "target": "http://localhost:9101",
+      "secure": false,
+      "logLevel": "debug",
+      "changeOrigin": true
+    }
+  }
